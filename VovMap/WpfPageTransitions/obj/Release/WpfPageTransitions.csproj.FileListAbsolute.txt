@@ -1,0 +1,14 @@
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\bin\Release\WpfPageTransitions.dll
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\bin\Release\WpfPageTransitions.pdb
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions.csprojResolveAssemblyReference.cache
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\PageTransition.g.cs
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions_MarkupCompile.cache
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions_MarkupCompile.lref
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\PageTransition.baml
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions.g.resources
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions.Properties.Resources.resources
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions.csproj.GenerateResource.Cache
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions.csproj.CoreCompileInputs.cache
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions.dll
+C:\Users\lonkonpetr\source\repos\VovMap\VovMap\WpfPageTransitions\obj\Release\WpfPageTransitions.pdb

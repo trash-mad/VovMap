@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="VovMap.MapMenuControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:System="clr-namespace:System;assembly=mscorlib"
+             xmlns:local="clr-namespace:VovMap"
+             x:Name="RootElem"
+             mc:Ignorable="d" Width="225" Height="300.001">
+    <UserControl.Resources>
+        <System:Double x:Key="SlideMenuOpenedWidth">300</System:Double>
+        <System:Double x:Key="SlideMenuClosedWidth">50</System:Double>
+
+        <Storyboard x:Key="sbShowLeftMenu" >
+            <DoubleAnimation  Storyboard.TargetProperty="Height" From="{StaticResource SlideMenuClosedWidth}" To="{StaticResource SlideMenuOpenedWidth}" DecelerationRatio=".9" Duration="0:0:1" />
+        </Storyboard>
+        <Storyboard x:Key="sbHideLeftMenu">
+            <DoubleAnimation  Storyboard.TargetProperty="Height" From="{StaticResource SlideMenuOpenedWidth}" To="{StaticResource SlideMenuClosedWidth}" AccelerationRatio=".9" Duration="0:0:1" />
+        </Storyboard>
+    </UserControl.Resources>
+    
+    <Border Background="White" BorderBrush="Red" BorderThickness="3" CornerRadius="30,30,30,30">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Horizontal" Height="30" Margin="10,5,0,0" Grid.Row="0" MouseDown="StackPanel_MouseDown">
+                <Image Source="pack://application:,,,/VovMap;component/Images/Menu.png"/>
+                <Label Content="Меню" FontSize="15"/>
+            </StackPanel>
+            <ListBox Grid.Row="1" Margin="10" x:Name="BattleList" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Disabled" SelectionChanged="BattleList_SelectionChanged">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" Height="30">
+                            <Image Source="pack://application:,,,/VovMap;component/Images/MapPin2.png"/>
+                            <Label Content="{Binding Path=Name, Mode=OneTime}" FontSize="14"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+
+            </ListBox>
+        </Grid>
+    </Border>
+</UserControl>

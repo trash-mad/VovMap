@@ -1,0 +1,14 @@
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\bin\Debug\WpfPageTransitions.dll
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\bin\Debug\WpfPageTransitions.pdb
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions.csprojResolveAssemblyReference.cache
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\PageTransition.g.cs
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.cache
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.lref
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\PageTransition.baml
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions.g.resources
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions.Properties.Resources.resources
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.CoreCompileInputs.cache
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
+C:\Users\lonkonpetr\Desktop\Slide\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb
